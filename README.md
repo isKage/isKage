@@ -21,9 +21,11 @@ Welcome to visit my Blog [isKage`Blog](https://blog.iskage.online/)
 - ⚡ Fun fact: ...
 -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iskage&show_icons=true&locale=en&layout=compact" alt="iskage" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iskage&show_icons=true&locale=en" alt="iskage" /></p>
+| GitHub Stats | Top Languages |
+|-------------|--------------|
+| ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=isKage&show_icons=true) | ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=isKage&langs_count=3&hide=javascript,go,css,html,tex,Roff,SCSS,Less,PHP) |
+
 
 ---
 
