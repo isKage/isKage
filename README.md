@@ -1,4 +1,4 @@
-## Hi there, I'm isKage 👋
+## Hi there, I'm **isKage** 👋
 
 <!--
 **isKage/isKage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +22,20 @@ Welcome to visit my Blog [isKage`Blog](https://blog.iskage.online/)
 -->
 
 
+<p align="center"> 
+  <a href="">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=isKage&include_all_commits=true&count_private-true&custom_title=Anyayay'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true" />
+  </a>
+  <a href="">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isKage&layout=compact&langs_count=8&card_width=320&hide=javascript,go,css,html,tex,Roff,SCSS,Less,PHP" />
+  </a>
+</p>
+
+
+
+![isKage's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=isKage&theme=github-compact)
+
+<!--
 | GitHub Stats | Top Languages |
 |-------------|--------------|
 | ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=isKage&show_icons=true) | ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=isKage&langs_count=3&hide=javascript,go,css,html,tex,Roff,SCSS,Less,PHP) |
@@ -52,3 +66,4 @@ Welcome to visit my Blog [isKage`Blog](https://blog.iskage.online/)
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
 </p>
+-->
