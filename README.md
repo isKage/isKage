@@ -22,11 +22,6 @@ Welcome to visit my Blog [isKage`Blog](https://blog.iskage.online/)
 -->
 
 
-<p align="center"> 
-    <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=isKage&include_all_commits=true&count_private-true&custom_title=Anyayay'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true" />
-    <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isKage&layout=compact&langs_count=8&card_width=320&hide=javascript,go,css,html,tex,Roff,SCSS,Less,PHP" />
-</p>
-
 
 <table align="center">
   <tr>
@@ -34,13 +29,6 @@ Welcome to visit my Blog [isKage`Blog](https://blog.iskage.online/)
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=isKage&layout=compact&langs_count=8&card_width=320&hide=javascript,go,css,html,tex,Roff,SCSS,Less,PHP" height="200"/></td>
   </tr>
 </table>
-
-
-<p align="center"> 
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=isKage&include_all_commits=true&count_private-true&custom_title=Anyayay'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true" />
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isKage&layout=compact&langs_count=8&card_width=410&hide=javascript,go,css,html,tex,Roff,SCSS,Less,PHP" />
-</p>
-
 
 
 
