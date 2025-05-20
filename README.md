@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🎓 I’m currently studying in Fudan University, majoring in Statistics.
-- 🚀 I’m currently learning [Deep Learning](https://github.com/isKage/pytorch-notes), AI Agent, [Data Structure and Algorithms](https://github.com/isKage/dsa-notes), [R Programming](https://github.com/isKage/r-notes) and [SQL](https://github.com/isKage/sql-notes).
+- 🚀 I’m currently learning [Deep Learning](https://github.com/isKage/pytorch-notes), [AI Agent](https://github.com/isKage/AIMGD), [Data Structure and Algorithms](https://github.com/isKage/dsa-notes), [R Programming](https://github.com/isKage/r-notes) and [SQL](https://github.com/isKage/sql-notes).
 - 📫 How to reach me: You can email at [GMail](mailto:kageshu211@gmail.com), or contact me at [Zhihu](https://www.zhihu.com/people/iskage).
 
 Welcome to visit my Blog [isKage`Blog](https://blog.iskage.online/)
